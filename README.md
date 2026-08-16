@@ -28,4 +28,4 @@ Próximos pasos que puedo completar si quieres
 - Crear escena Main completa con prefabs y un sistema de spawner más avanzado
 - Generar builds Windows (.exe) y Android (.apk) y crear Release con ZIP
 
-Si quieres que suba builds y assets, confirma y los prepararé y crearé una Release con el ZIP listo para descargar.
+Si quieres que suba builds y assets, confirma y los prepararé y crearé una Release con el ZIP listo para descargar.confirma
