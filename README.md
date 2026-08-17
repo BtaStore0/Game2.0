@@ -3,6 +3,7 @@
 Este repositorio contiene el esqueleto inicial para un juego 3D estilo "endless runner" (tipo Subway Surfers) creado para Unity 2022.3 LTS.
 
 Contenido
+
 - Assets/Scripts/: scripts C# principales (PlayerController, ObstacleSpawner, GameManager)
 - Packages/manifest.json: configuración mínima de paquetes Unity
 - ProjectSettings/ProjectVersion.txt: versión de Unity objetivo
